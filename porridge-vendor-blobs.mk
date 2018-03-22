@@ -368,8 +368,9 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/porridge/proprietary/etc/firmware/mt6627/mt6627_fm_v2_coeff.bin:system/etc/firmware/mt6627/mt6627_fm_v2_coeff.bin \
     vendor/wileyfox/porridge/proprietary/etc/firmware/mt6627/mt6627_fm_v1_patch.bin:system/etc/firmware/mt6627/mt6627_fm_v1_patch.bin \
     vendor/wileyfox/porridge/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
-    vendor/wileyfox/porridge/proprietary/etc/firmware/catcher_filter_1_lwg_n.bin:system/etc/firmware/catcher_filter_1_lwg_n.bin \
+    vendor/wileyfox/porridge/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/wileyfox/porridge/proprietary/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
+    vendor/wileyfox/porridge/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
     vendor/wileyfox/porridge/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
     vendor/wileyfox/porridge/proprietary/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V79_P10_1_lwg_n:system/etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V79_P10_1_lwg_n \
     vendor/wileyfox/porridge/proprietary/etc/mddb/BPMdMetaDatabase_MOLY_LR9_W1444_MD_LWTG_MP_V79_P10_1_lwg_n:system/etc/mddb/BPMdMetaDatabase_MOLY_LR9_W1444_MD_LWTG_MP_V79_P10_1_lwg_n \
